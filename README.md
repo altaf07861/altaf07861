@@ -160,13 +160,6 @@ Always building something new! Follow me on GitHub to stay updated on my latest 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=altaf07861&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1a6ecb&icon_color=1D9E75&text_color=ffffff" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaf07861&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6ecb&text_color=ffffff" height="165"/>
-
-</div>
 
 <div align="center">
 
